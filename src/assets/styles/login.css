@@ -1,0 +1,45 @@
+#body_contatiner {
+    background-color: #faf5ed;
+}
+
+#login_container{
+    height: 50em;
+}
+
+#body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#login_button{
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size:2em;
+}
+
+.Text_Field_Container {
+    position: relative;
+    text-align: center;
+    top: 2em;
+    z-index: 1000;
+    font-weight: bolder;
+    font-size: 2.3em;
+    color:#0A174E;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
+}
+
+.Text_Field{
+    color:#0A174E;
+    outline:2px solid gray;
+    background-color:white;
+}
+
+#login_button_container{
+    top: 6.5em;
+}
+
+.Text_Field:focus {
+    outline:2px solid gray;
+}
+

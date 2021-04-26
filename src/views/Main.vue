@@ -8,13 +8,13 @@
       <img src="../assets/images/office-1209640.jpg">
     </div>
 
-    <div id="body_contatiner">
+    <div id="body_white_contatiner">
       <div id="body">
 
         <div app id="start">
           <div class="Title">머선 NOW</div>
           <div class="content">머선 교육 서비스를 지금 당장 만나보세요.</div>
-          <div class="button_container"> <span depressed class="button">  <v-icon x-large color="#F5D042">mdi-arrow-right-bold</v-icon> 시작하기 </span> </div>
+          <div class="button_container"> <span depressed class="button">  <v-icon x-large color="#FFFFFF">mdi-arrow-right-bold</v-icon> 시작하기 </span> </div>
         </div>
 
       </div>

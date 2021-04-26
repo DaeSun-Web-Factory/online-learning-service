@@ -12,8 +12,8 @@
     opacity: 0.5;
 }
 
-#body_contatiner {
-    background-color: #F5D042;
+#body_white_contatiner {
+    background-color: white;
 }
 
 #body{
@@ -62,10 +62,14 @@
     
     font-weight: bold;
     font-size: 2.5em;
-    color:#F5D042;
+    color:white;
     background-color:#0A174E;
     padding: 0.5em 0.7em 0.5em 0.7em;
     border-radius: 12px;
+}
+
+.button:hover {
+    opacity: 0.7;
 }
 
 
