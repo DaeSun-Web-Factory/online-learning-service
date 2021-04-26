@@ -2,6 +2,6 @@ module.exports = {
   transpileDependencies: [
     'vuetify'
   ],
-  //publicPath: '/<repository_name>',
-  //outputDir: 'docs'
+  publicPath: '/online-learning-service',
+  outputDir: 'docs'
 }
