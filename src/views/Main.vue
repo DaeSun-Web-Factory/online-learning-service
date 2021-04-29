@@ -12,9 +12,9 @@
       <div id="body">
 
         <div app id="start">
-          <div class="Title">머선 NOW</div>
+          <div class="Title">머선 ONLINE</div>
           <div class="content">머선 교육 서비스를 지금 당장 만나보세요.</div>
-          <div class="button_container"> <span depressed class="button">  <v-icon x-large color="#FFFFFF">mdi-arrow-right-bold</v-icon> 시작하기 </span> </div>
+          <div class="button_container"> <a href="/login/" class="non_underline_link"> <span depressed class="button">  <v-icon x-large color="#FFFFFF">mdi-arrow-right-bold</v-icon> 시작하기 </span> </a> </div> 
         </div>
 
       </div>
